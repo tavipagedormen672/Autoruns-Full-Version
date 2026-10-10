@@ -241,4 +241,4 @@ This repository serves as the official landing page for Autoruns. The software i
 **Get the most recent version of Autoruns today!**
 
 ---
-**Last updated:** 2026-10-09 22:14:04 UTC
+**Last updated:** 2026-10-10 02:03:36 UTC
